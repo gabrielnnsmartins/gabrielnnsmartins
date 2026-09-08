@@ -14,7 +14,7 @@ I'm currently developing my programming skills
 </div>
 
 - 📖I'm a Computer Science student
-- 💭I'm currently learning `JavaScript`
+- 💭I'm currently learning `C`
 - 🤝I'm looking to colaborate in projects to earn more `programming skills`
 - 🔉My pronouns: Him/His
 

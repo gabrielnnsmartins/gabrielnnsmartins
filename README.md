@@ -27,5 +27,7 @@ I'm currently developing my programming skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## My activity in GitHub:  
- ![gabrielnnsmartins's Stats](https://github-readme-stats.vercel.app/api?username=gabrielnnsmartins&theme=blueberry&show_icons=true&hide_border=true&count_private=false)
+
+![gabrielnnsmartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielnnsmartins&theme=blueberry&hide_border=true)
+
 

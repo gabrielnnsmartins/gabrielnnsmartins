@@ -28,5 +28,4 @@ I'm currently developing my programming skills
 
 ## My activity in GitHub:  
  ![gabrielnnsmartins's Stats](https://github-readme-stats.vercel.app/api?username=gabrielnnsmartins&theme=blueberry&show_icons=true&hide_border=true&count_private=false)
-![gabrielnnsmartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielnnsmartins&theme=blueberry&hide_border=true)
-![gabrielnnsmartins's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnnsmartins&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
